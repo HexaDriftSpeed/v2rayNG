@@ -19,7 +19,7 @@ A V2Ray  client for Android, support [Xray core](https://github.com/XTLS/Xray-co
 
 ### Usage
 
-#### Geoip and Geosite
+#### Geoip rand Geosite
 - geoip.dat and geosite.dat files are in `Android/data/com.v2ray.ang/files/assets` (path may differ on some Android device)
 - download feature will get enhanced version in this [repo](https://github.com/Loyalsoldier/v2ray-rules-dat) (Note it need a working proxy)
 - latest official [domain list](https://github.com/Loyalsoldier/v2ray-rules-dat) and [ip list](https://github.com/Loyalsoldier/geoip) can be imported manually
