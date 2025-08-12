@@ -1,4 +1,4 @@
-#!/bin/bash
+Version 3, #!/bin/bash
 
 targets=(
   "aarch64-linux-android21 arm64 arm64-v8a"
